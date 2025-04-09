@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Игровой ноутбук",
+    "price": 129999,
+    "category": "Ноутбуки",
+    "image": "/images/laptop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Механическая клавиатура",
+    "price": 8999,
+    "category": "Периферия",
+    "image": "/images/keyboard.jpg"
+  }
+]
